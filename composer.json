@@ -1,0 +1,10 @@
+{
+    "name": "OneSky",
+    "authors": [
+        {
+            "name": "José Laya",
+            "email": "josel@bunnyinc.com"
+        }
+    ],
+    "require": {}
+}
